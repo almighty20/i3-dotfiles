@@ -11,13 +11,13 @@
 
 # i3-dotfiles
 - 👀these the config files for my i3 desktop.
-- clones the i3-dotfiles repo
+- 🔭clones the i3-dotfiles repo
 - 💞️just copy files to ur home respective folders.
 - 😊set the wallpaper u like.
 - 😄thank you....:)
 
 
-- Clone this repository & run rxfetch.
+- Clone this repository & get your i3 setup.😊
 
 ```yaml
 # clones the xfce-config repo
