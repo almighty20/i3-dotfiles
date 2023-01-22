@@ -1,7 +1,5 @@
 # VIKAL SINGH'S Dotfiles
 
-<img title="Rice" src="screenshot/Debian-Testing - VMware Workstation 21-01-2023 15_32_04.png" alt="">
-
 | Type                | Choice         |
 | ------------------- | -------------- |
 | Shell               | Bash           |
