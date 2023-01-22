@@ -1,6 +1,18 @@
+# VIKAL SINGH'S Dotfiles
 
+<img title="Rice" src="screenshot/Debian-Testing - VMware Workstation 21-01-2023 15_32_04.png" alt="">
+
+| Type                | Choice         |
+| ------------------- | -------------- |
+| Shell               | Bash           |
+| Color scheme        | Adwaita |
+| Distribution        | Debian Testing      |
+| Windows Manager    |    i3-wm      |
+| IDE                 | Geany, Nano, VSCode |
+| Web Browser         | Firefox        |
+| Terminal            | kitty & lxterminal      |
 <div align="center">
-<h1 i3 Dotfiles⚡💞️ <h1>
+<h5> i3 Dotfiles⚡💞️ <h1>
 
 
 <br>
