@@ -10,16 +10,12 @@
 | Web Browser         | Firefox        |
 | Terminal            | kitty & lxterminal      |
 <div align="center">
-<h5> i3 Dotfiles⚡💞️ <h1>
+<h3> i3 Dotfiles⚡💞️ <h3>
 
 
 <br>
 
 </div>
-### 👋 Hi there, I’m @singh-vikal .
-
-
-# i3-dotfiles
 - 👀these the config files for my i3 desktop.
 - 🔭clones the i3-dotfiles repo
 - 💞️just copy files to ur home respective folders.
