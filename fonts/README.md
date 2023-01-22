@@ -1,2 +1,2 @@
 # Explanation
-This directory is dedicated to the storage of the fonts which I'm currently using on my system.
+This directory is to store the fonts which I'm currently using on my system.
