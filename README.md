@@ -26,7 +26,7 @@
 - Clone this repository & get your i3 setup.😊
 
 ```yaml
-# clones the xfce-config repo
+# clone the xfce-config repo
 $ git clone https://github.com/singh-vikal/i3-dotfiles
 # cd in i3-dotfiles
 $ cd i3-dotfiles
